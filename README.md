@@ -29,7 +29,7 @@ If you want to make it less bitter and more fruity:
 You can try this out with your favorite gin of course.
 
 ## Creators
-* Andi Peetz
+* Andreas Peetz
 * Robert Baruck (@JamesAlias)
 
 ![Wu5 Logo](images/wu5-logo.jpg "Wu5 Logo")
