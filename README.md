@@ -1,6 +1,6 @@
 # Melon Time
 
-A bitter, fruity, elegant __gin long drink__ created @ [Wu5](http://www.wu5.de/ "Homepage Studentenclub Wu5").
+A bitter, fruity, elegant __gin long drink__ created @ __[Wu5](http://www.wu5.de/ "Homepage Studentenclub Wu5")__.
 
 ## Ingredients
 * Long Ice
@@ -33,4 +33,4 @@ If you want to make it less bitter and more fruity:
 
 ![Wu5 Logo](images/wu5-logo.jpg "Wu5 Logo")
 
-__mixed__ with ❤ at Wu5 Studentenclub, Dresden, Germany
+__mixed__ with ❤ at __Wu5__ Studentenclub, Dresden, Germany
