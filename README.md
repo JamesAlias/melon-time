@@ -1,6 +1,6 @@
 # Melon Time
 
-A bitter, fruity, elegant __gin long drink__ created @ __[Wu5](http://www.wu5.de/ "Homepage Studentenclub Wu5")__.
+A fresh, bitter and elegant __gin long drink__ created @ __[Wu5](http://www.wu5.de/ "Homepage Studentenclub Wu5")__.
 
 ## Ingredients
 * Long Ice
@@ -18,14 +18,15 @@ A bitter, fruity, elegant __gin long drink__ created @ __[Wu5](http://www.wu5.de
 4. Put a slice of lime between the long ice.
 5. Drip some Grapefruit Bitters.
 6. Pour in 1 gulp sized dash of Ginger Ale and Soda.
-7. Stir it up a bit, so everything mixes up.
+7. Stir it up a bit, so everything mixes up slightly.
 8. Fill with Fritz Kola Melon.
-9. Profit.
 
-## Bitternes
+## Notes
 If you want to make it less bitter and more fruity:
   * Replace the slice of lime with a half slice of orange and
   * put in less Bitters.
+ 
+You can try this out with your favorite gin of course.
 
 ## Creators
 * Andi Peetz
